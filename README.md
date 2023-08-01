@@ -1,4 +1,4 @@
-# Dracula Theme
+# Dracula Theme, _Darker_
 
 ![Dracula](https://draculatheme.com/static/img/dracula.gif)
 
